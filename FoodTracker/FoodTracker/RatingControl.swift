@@ -23,7 +23,7 @@ import UIKit
     
     private func setupButtons(){
         
-        for _ in 0..<5{
+        for _ in 0..<rating{
          
         
         //create the button
